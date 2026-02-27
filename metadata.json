@@ -1,0 +1,5 @@
+{
+  "name": "Sentinels 360",
+  "description": "A secure LLM interface that automatically masks sensitive data and strips file metadata before sending prompts to AI models.",
+  "requestFramePermissions": []
+}
